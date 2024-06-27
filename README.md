@@ -47,7 +47,7 @@ Skin lesion segmentation plays a critical role in the early detection and accura
   ema_pytorch==0.2.3
   matplotlib==3.7.2
   numpy==1.24.4
-  opencv==4.6.0
+  opencv-python==4.6.0
   opencv_python_headless==4.8.0.74
   Pillow==10.0.0
   PyYAML==6.0.1
