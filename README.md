@@ -55,6 +55,7 @@ Skin lesion segmentation plays a critical role in the early detection and accura
   scipy==1.6.3
   termcolor==2.3.0
   torch==2.0.1
+  torchmetrics==1.4.0.post0
   torchvision==0.15.2
   tqdm==4.65.0
   ```
